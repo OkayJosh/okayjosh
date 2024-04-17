@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Joshua Olatunji, a seasoned Software Architect and Python Django Technical Lead. With a wealth of experience in the field, I am passionate about architecting robust software solutions and leading teams to deliver high-quality results. My expertise lies in Python, Django, and a range of technologies that drive innovation in the software development landscape.
+Hi, I'm Joshua Olatunji, a seasoned Software Architect and Technical Lead. With a wealth of experience in the field, I am passionate about architecting robust software solutions and leading teams to deliver high-quality results. My expertise lies in Python, Django, and a range of technologies that drive innovation in the software development landscape.
 
 ## Connect with Me
 
