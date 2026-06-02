@@ -22,12 +22,13 @@ I am a **Software Architect** and **Founder of Dependly**. With over 10 years of
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OkayJosh&show_icons=true&theme=radium&hide_border=true&title_color=a78bfa&icon_color=a78bfa" alt="Joshua's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkayJosh&layout=compact&theme=radium&hide_border=true&title_color=a78bfa" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/OkayJosh" alt="Joshua's GitHub Metrics" />
 </p>
 
 ---
